@@ -5,7 +5,7 @@
 <br>
 
 ## Description
-In this independent data analysis of ECG data from over 10,000 patients, I built multiple models that diagnose various heart conditions. The classifiers I used were KNN, decision trees, and logistic regression. My best model was a decision tree that can diagnose a patient with an abnormal heart rhythm, with an accuracy of 94% and a recall score of 0.93.
+In this independent analysis of ECG data from over 10,000 patients, I built multiple models that diagnose various heart conditions. The classifiers I used were KNN, decision trees, and logistic regression. My best model was a decision tree that can diagnose a patient with an abnormal heart rhythm, with an accuracy of 94% and a recall score of 0.93.
 
 <br>
 
