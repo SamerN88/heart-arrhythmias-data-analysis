@@ -21,7 +21,10 @@ Based on what I've learned about cardiology, the ECG is fairly effective in diag
 ## 0) Basic anatomy
 In this project we are mainly concerned with diagnosing arrhythmogenic conditions related to the atriums (upper chambers) and the ventricles (lower chambers):
 
-![heart_diagram.png](attachment:heart_diagram.png)
+<!-- ![heart_diagram.png](attachment:heart_diagram.png) -->
+<img src="heart_diagram.png"
+     alt="heart diagram"
+     style="margin-right:auto; margin-left:auto" />
 [ Source: https://yourheartvalve.com/heart-basics/heart-anatomy/ ]
 
 <hr>
